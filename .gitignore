@@ -1,0 +1,35 @@
+# ----------------------------
+# Virtual Environments
+# ----------------------------
+venv/
+env/
+face_env/
+.venv/
+
+# ----------------------------
+# Python cache / compiled files
+# ----------------------------
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# ----------------------------
+# OS / Editor junk
+# ----------------------------
+.DS_Store
+Thumbs.db
+.vscode/
+
+# ----------------------------
+# Logs & temp files
+# ----------------------------
+*.log
+*.tmp
+
+# ----------------------------
+# Optional: large ML artifacts (ONLY if needed)
+# ----------------------------
+# *.h5
+# *.pt
+# *.onnx
