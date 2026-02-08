@@ -1,0 +1,12 @@
+opencv-python
+flask
+# face_recognition......
+# cmake  
+Media pipe face detection(alternative)......np
+
+	•	face_env/bin/python = project Python
+	•	face_env/bin/pip = project package manager
+    pip install mediapipe==0.10.9 (not the latest version , but stable)
+    python version in this venv 3.11.14
+
+- use opencv's dnn face detector
